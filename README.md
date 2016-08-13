@@ -1,0 +1,2 @@
+# white-opalite
+simple repository
